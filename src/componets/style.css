@@ -1,0 +1,14 @@
+.admin-subtitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color:#fc466b;
+    color: #fff;
+    border: none;
+    padding: 5px;
+    border-radius: 4px;
+}
